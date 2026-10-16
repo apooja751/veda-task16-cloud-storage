@@ -1,0 +1,1 @@
+S3 buckets contain objects. Each object consists of data, a key, and metadata. Bucket names must be globally unique. Access permissions should follow the principle of least privilege.

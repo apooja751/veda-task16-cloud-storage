@@ -1,0 +1,1 @@
+Workflow: Create an S3 bucket, configure security settings, upload objects, verify the stored files, and manage access securely.
